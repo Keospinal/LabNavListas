@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lista de Carnes</string>
+    <string name="Logo_Carnes">Lista de Carnes</string>
+    <string-array name="optionsTopLevel">
+        <item>Res</item>
+        <item>Cerdo</item>
+        <item>Pollo</item>
+    </string-array>
+
+
+    <string-array name="optionsCerdoLevel">
+        <item>Tocino</item>
+        <item>Jamon</item>
+    </string-array>
+
+    <string-array name="optionsPolloLevel">
+        <item>Pierna</item>
+        <item>Pechuga</item>
+        <item>Ala</item>
+        <item>Muslo</item>
+    </string-array>
+</resources>
